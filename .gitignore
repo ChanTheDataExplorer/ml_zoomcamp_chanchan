@@ -1,0 +1,8 @@
+*.csv
+.venv/
+.ipynb_checkpoints
+07_bentoml/stable-diffusion-bentoml/
+08_deeplearning/test
+08_deeplearning/train
+08_deeplearning/dino-dragon.zip
+capstone_midterm/
